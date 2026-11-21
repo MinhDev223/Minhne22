@@ -1,7 +1,7 @@
 # 👋 Hi, I'm MinhDev223
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Minhne22+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MinhDev223+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -100,8 +100,8 @@ Regularly practicing:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhne22&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhne22&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhDev223&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDev223&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ Regularly practicing:
 ## 📈 Contribution
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhne22&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhDev223&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -137,8 +137,8 @@ I believe the best way to become a better developer is to continuously **build p
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Minhne22">
-    <img src="https://img.shields.io/badge/GitHub-Minhne22-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/MinhDev223">
+    <img src="https://img.shields.io/badge/GitHub-MinhDev223-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
