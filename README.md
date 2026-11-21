@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minhne22
+# 👋 Hi, I'm MinhDev223
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Minhne22+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" />
